@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Taxi Monitor System</string>
+
+    <string name="disconnected">"Disconnected"</string>
+    <string name="listening">"Listening"</string>
+    <string name="connecting">"Connecting"</string>
+    <string name="connected">"Connected"</string>
+
+    <string name="vacant">"Vacant"</string>
+    <string name="hired">"Hired"</string>
+</resources>

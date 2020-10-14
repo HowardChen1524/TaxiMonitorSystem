@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "389776449290",
+    "firebase_url": "https://obd-app-654b6.firebaseio.com",
+    "project_id": "obd-app-654b6",
+    "storage_bucket": "obd-app-654b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389776449290:android:193a3f4c913acb9c1fa4f3",
+        "android_client_info": {
+          "package_name": "com.example.obd_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389776449290-5qgcce4m5m0lp8q3jj2jtpbt4h5slffn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.obd_app",
+            "certificate_hash": "284fd7599b09e7c749106c30f73c170450b9a2c5"
+          }
+        },
+        {
+          "client_id": "389776449290-u8f0q5u93amtplor3gpshncfkfn824s0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMkkKK5h377H_nYF4SLtUXFYy-HfaUJks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389776449290-u8f0q5u93amtplor3gpshncfkfn824s0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
